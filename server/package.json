@@ -1,0 +1,12 @@
+{
+  "name": "job-board-server",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "graphql": "^16.14.0",
+    "nodemon": "^3.1.14"
+  }
+}
